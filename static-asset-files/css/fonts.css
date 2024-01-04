@@ -1,0 +1,46 @@
+@font-face {
+  font-family: 'Quiche-Bold';
+  src: url('../fonts/Quiche/QuicheSansBold.woff2') format('woff2'), url('../fonts/Quiche/QuicheSansBold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Quiche-ExtraBold';
+  src: url('../fonts/Quiche/QuicheSansExtraBoldRegular.woff2') format('woff2'), url('../fonts/Quiche/QuicheSansExtraBoldRegular.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('../fonts/Montserrat/Montserrat-Regular.woff') format('woff'), url('../fonts/fonts/Montserrat/Montserrat-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat-Medium';
+  src: url('../fonts/Montserrat/Montserrat-Medium.woff') format('woff'), url('../fonts/Montserrat/Montserrat-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Montserrat-Semibold';
+  src: url('../fonts/Montserrat/Montserrat-Semibold.woff') format('woff'), url('../fonts/Montserrat/Montserrat-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Caveat-Bold';
+  src: url('../fonts/Caveat/Caveat-Bold.woff2') format('woff2'), url('../fonts/Caveat/Caveat-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Caveat-SemiBold';
+  src: url('../fonts/Caveat/Caveat-SemiBold.woff2') format('woff2'), url('../fonts/Caveat/Caveat-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
